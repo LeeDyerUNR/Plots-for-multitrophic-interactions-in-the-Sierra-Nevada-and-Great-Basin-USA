@@ -10,7 +10,7 @@ CaterpillarPlots2009_2024.csv
 These data are available: https://github.com/LeeDyerUNR/Plots-for-multitrophic-interactions-in-the-Sierra-Nevada-and-Great-Basin-USA			
 		
 ############################			
-## LTREB-PLOT.csv			
+## LTREB-PLOT.csv = CaterpillarPlots2009_2024.csv	
 ############################			
 			
 This file contains plant data associated with either (1) general collections at a given focal site or adjacent locality, or (2) plots used to sample plant diversity and richness within a defined area at focal long-term monitoring sites. Each row represents an instance of collection on a given plant species at a given location. The number of individuals belonging to a species may vary by row (see “N” below).
